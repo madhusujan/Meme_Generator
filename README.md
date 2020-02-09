@@ -1,7 +1,7 @@
 ## LOL Meme Generator
 
 
-Built with React JS
+React App to create memes, images can be uploaded locally, or you can choose random images 
 
 Must install Node.js 8.0 or higher 
 
